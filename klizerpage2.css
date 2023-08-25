@@ -1,4 +1,4 @@
-/* body{
+body{
     background-image: url('flex.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -68,7 +68,7 @@ p{
     margin-left: 25px;
     box-sizing: border-box;
     
-} */
+}
 @media(max-width:375px){
     body{
         background-image: url('flex.png');
